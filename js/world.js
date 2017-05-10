@@ -1,1 +1,1 @@
-export default 'WORLD';
+export default 'MUNDUS'
